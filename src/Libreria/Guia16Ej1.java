@@ -4,9 +4,8 @@
  */
 package Libreria;
 
-import Libreria.entidades.Autor;
+
 import Libreria.entidades.Cliente;
-import Libreria.entidades.Editorial;
 import Libreria.entidades.Libro;
 import Libreria.entidades.Prestamo;
 import Libreria.servicios.AutorServicio;
@@ -14,16 +13,14 @@ import Libreria.servicios.ClienteServicio;
 import Libreria.servicios.EditorialServicio;
 import Libreria.servicios.LibroServicio;
 import Libreria.servicios.PrestamoServicio;
-import java.util.Random;
 import java.util.Scanner;
-import javax.persistence.EntityManagerFactory;
-import javax.persistence.Persistence;
+
 
 /**
  *
  * @author Elio
  */
-public class Guia15Ej1 {
+public class Guia16Ej1 {
 
     /**
      * @param args the command line arguments
